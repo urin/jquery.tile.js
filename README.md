@@ -16,7 +16,7 @@ Getting started
 
 Demos
 ------------------------
-See [demos](http://file.urin.take-uma.net/jquery.tile.js-Demo.html).
+See [demos](http://urin.github.com/jquery.tile.js/).
 
 Copyright
 ------------------------
