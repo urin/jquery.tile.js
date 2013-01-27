@@ -3,7 +3,9 @@
     "title": "Tile",
     "description": "The lightest jQuery plugin to tile boxes.",
     "keywords": [
-        "tile"
+        "tile",
+        "layout",
+        "box"
     ],
     "version": "0.0.3",
     "author": {
