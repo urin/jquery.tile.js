@@ -3,8 +3,7 @@
     "title": "Tile",
     "description": "The lightest jQuery plugin to tile boxes.",
     "keywords": [
-        "tile",
-        "tip"
+        "tile"
     ],
     "version": "0.0.3",
     "author": {
