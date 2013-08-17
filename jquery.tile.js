@@ -17,7 +17,7 @@
 			if(s.removeProperty) s.removeProperty("height");
 			else if(s.removeAttribute) s.removeAttribute("height");
 		});
-		return this.each(function(i) {
+		this.each(function(i) {
 			c = i % columns;
 			if(c == 0) tiles = [];
 			tiles[c] = $(this);
@@ -26,6 +26,6 @@
 			if(i == last || c == columns - 1)
 				$.each(tiles, function() { this.height(max); });
 		});
+    return $(document).trigger('TilingFinished');
 	};
 })(jQuery);
-
