@@ -21,7 +21,7 @@
 			c = i % columns;
 			if(c == 0) tiles = [];
 			tiles[c] = $(this);
-			h = tiles[c].height();
+			h = tiles[c].outerHeight();
 			if(c == 0 || h > max) max = h;
 			if(i == last || c == columns - 1)
 				$.each(tiles, function() { this.height(max); });
