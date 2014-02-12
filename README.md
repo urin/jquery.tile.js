@@ -1,4 +1,4 @@
-# [jquery.tile.js](http://urin.github.com/jquery.tile.js/)
+# [jquery.tile.js](//urin.github.com/jquery.tile.js/)
 The lightest jQuery plugin to tile boxes.
 
 ## Quick start
@@ -13,7 +13,7 @@ The lightest jQuery plugin to tile boxes.
     });
 
 ## Demos
-See [demos](http://urin.github.com/jquery.tile.js/).
+See [demos](//urin.github.com/jquery.tile.js/).
 
 ## Copyright
 &copy; 2011 Urin

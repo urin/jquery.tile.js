@@ -1,39 +1,39 @@
 {
-    "name": "tile",
-    "title": "Tile",
-    "description": "The lightest jQuery plugin to tile boxes.",
-    "keywords": [
-        "tile",
-        "layout",
-        "box"
-    ],
-    "version": "0.0.4",
-    "author": {
-        "name": "urin",
-        "url": "https://github.com/urin"
-    },
-    "maintainers": [
-        {
-            "name": "urin",
-            "email": "urinkun@gmail.com",
-            "url": "https://github.com/urin"
-        }
-    ],
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "http://www.opensource.org/licenses/mit-license.php"
-        },
-        {
-            "type": "GPL",
-            "url": "http://www.gnu.org/licenses/gpl.html"
-        }
-    ],
-    "bugs": "https://github.com/urin/jquery.tile.js/issues",
-    "homepage": "https://github.com/urin/jquery.tile.js",
-    "docs": "http://urin.github.com/jquery.tile.js",
-    "download": "https://raw.github.com/urin/jquery.tile.js/master/jquery.tile.js",
-    "dependencies": {
-        "jquery": ">=1.4.2"
+  "name": "tile",
+  "title": "Tile",
+  "description": "The lightest jQuery plugin to tile boxes.",
+  "keywords": [
+    "tile",
+    "layout",
+    "box"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "urin",
+    "url": "https://github.com/urin"
+  },
+  "maintainers": [
+    {
+      "name": "urin",
+      "email": "urinkun@gmail.com",
+      "url": "https://github.com/urin"
     }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    },
+    {
+      "type": "GPL",
+      "url": "http://www.gnu.org/licenses/gpl.html"
+    }
+  ],
+  "bugs":     "https://github.com/urin/jquery.tile.js/issues",
+  "homepage": "https://github.com/urin/jquery.tile.js",
+  "docs":     "http://urin.github.com/jquery.tile.js",
+  "download": "https://raw.github.com/urin/jquery.tile.js/master/jquery.tile.js",
+  "dependencies": {
+    "jquery": ">=1.4.2"
+  }
 }
