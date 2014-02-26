@@ -4,13 +4,17 @@ The lightest jQuery plugin to tile boxes.
 ## Quick start
 (1) Download and load this plugin javascript file after jQuery.  
 
-    <script src="js/jquery.tile.js"></script>
+```html
+<script src="js/jquery.tile.js"></script>
+```
 
 (2) Call `$('selector').tile()` in document ready event of jQuery.  
 
-    $(function() {
-      $('selector').tile();
-    });
+```javascript
+$(function() {
+  $('selector').tile();
+});
+```
 
 ## Demos
 See [demos](//urin.github.com/jquery.tile.js/).
