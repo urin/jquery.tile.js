@@ -6,17 +6,15 @@
  * http://www.opensource.org/licenses/mit-license.php
  * http://www.gnu.org/licenses/gpl.html
  * @author: Hayato Takenaka (https://github.com/urin/jquery.tile.js)
- * @version: 1.0.0
+ * @version: 1.0.1
  **/
 (function($) {
   $.fn.tile = function(columns) {
-    var tiles, $tile, max, c, h, last = this.length - 1, s, method;
+    var tiles, $tile, max, c, h, a = ["height"], last = this.length - 1, s, method;
     if(!columns) columns = this.length;
-    this.each(function() {
-      s = this.style;
-      if(s.removeProperty) s.removeProperty("height");
-      else if(s.removeAttribute) s.removeAttribute("height");
-    });
+    s = document.body.style;
+    method = s.removeProperty ? s.removeProperty : s.removeAttribute;
+    this.each(function() { method.apply(this.style, a); });
     return this.each(function(i) {
       c = i % columns;
       if(c == 0) tiles = [];
@@ -25,7 +23,8 @@
       h = method.apply($tile);
       if(c == 0 || h > max) max = h;
       if(i == last || c == columns - 1) {
-        $.each(tiles, function() { method.apply(this, [max]); });
+        max = [max];
+        $.each(tiles, function() { method.apply(this, max); });
       }
     });
   };
