@@ -4,16 +4,16 @@
 <meta charset="utf-8" />
 <title>jquery.tile.js Demo page</title>
 <link rel="stylesheet" href="style.css" type="text/css" />
-<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
-<script type="text/javascript" src="js/jquery.tile.js"></script>
-<script type="text/javascript" src="js/jquery.balloon.js"></script>
-<script type="text/javascript">
-$(function() {
+<script src="js/jquery-1.10.1.min.js"></script>
+<script src="js/jquery.tile.js"></script>
+<script src="js/jquery.balloon.js"></script>
+<script>
+  $(function() {
     $(".explanation").tile();
     $("#tile-sample1").click(function() { $(".sample1").tile(); });
     $("#tile-sample2").click(function() { $(".sample2").tile(4); });
     $("a", "body").balloon();
-    });
+  });
 </script>
 </head>
 
