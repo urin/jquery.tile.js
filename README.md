@@ -20,7 +20,7 @@ $(function() {
 See [demos](//urin.github.com/jquery.tile.js/).
 
 ## Links
-Detail explanation [here](http://urin.github.io/posts/2013/release-jquery-tile-js/).
+Detail explanation [here](http://urin.github.io/posts/2013/release-jquery-tile-js/) (in Japanese).
 
 [jquery.tile.js - URIN HACK](http://urin.github.io/posts/2013/release-jquery-tile-js/)
 
