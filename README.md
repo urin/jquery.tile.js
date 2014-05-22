@@ -28,7 +28,9 @@ Detail explanation [here](//urin.github.io/posts/2013/release-jquery-tile-js/) (
 
 The comparison of the weight of similar other libraries is shown below.
 
-![The comparison of the weight of similar other libraries](//raw.github.com/wiki/urin/jquery.tile.js/images/size.png "The comparison of the weight of similar other libraries")
+![The comparison of the weight of similar other libraries](//raw.githubusercontent.com/wiki/urin/jquery.tile.js/images/size.png "The comparison of the weight of similar other libraries")
+
+<small>This comparison was done at 2014-05-22 using the latest version of all libraries.</small>
 
 ## Copyright
 &copy; 2011 Urin
