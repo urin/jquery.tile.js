@@ -1,4 +1,4 @@
-# [jquery.tile.js](//urin.github.com/jquery.tile.js/)
+# [jquery.tile.js](//urin.github.io/jquery.tile.js/)
 The lightest jQuery plugin to tile boxes.
 
 ## Quick start
@@ -17,12 +17,18 @@ $(function() {
 ```
 
 ## Demos
-See [demos](//urin.github.com/jquery.tile.js/).
+See [demos](//urin.github.io/jquery.tile.js/).
 
 ## Links
-Detail explanation [here](http://urin.github.io/posts/2013/release-jquery-tile-js/) (in Japanese).
+Detail explanation [here](//urin.github.io/posts/2013/release-jquery-tile-js/) (in Japanese).
 
-[jquery.tile.js - URIN HACK](http://urin.github.io/posts/2013/release-jquery-tile-js/)
+[jquery.tile.js - URIN HACK](//urin.github.io/posts/2013/release-jquery-tile-js/)
+
+## How is it light?
+
+The comparison of the weight of similar other libraries is shown below.
+
+![The comparison of the weight of similar other libraries](//raw.github.com/wiki/urin/jquery.tile.js/images/size.png "The comparison of the weight of similar other libraries")
 
 ## Copyright
 &copy; 2011 Urin
