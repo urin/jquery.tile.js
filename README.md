@@ -24,11 +24,13 @@ Detail explanation [here](//urin.github.io/posts/2013/release-jquery-tile-js/) (
 
 [jquery.tile.js - URIN HACK](//urin.github.io/posts/2013/release-jquery-tile-js/)
 
-## How is it light?
+## How light is it?
 
 The comparison of the weight of similar other libraries is shown below.
 
-![The comparison of the weight of similar other libraries](http://raw.githubusercontent.com/wiki/urin/jquery.tile.js/images/size.png "The comparison of the weight of similar other libraries")
+![Figure: The comparison of the weight of similar other libraries](http://raw.githubusercontent.com/wiki/urin/jquery.tile.js/images/script-size-comparison-graph.png "The comparison of the weight of similar other libraries")
+
+![Table: The comparison of the weight of similar other libraries](http://raw.githubusercontent.com/wiki/urin/jquery.tile.js/images/script-size-comparison-table.png "The comparison of the weight of similar other libraries")
 
 <small>This comparison was done at 2014-05-22 using the latest version of all libraries.</small>
 
