@@ -8,9 +8,9 @@ See [demos](//urin.github.io/jquery.tile.js/).
 
 The comparison of the weight of similar other libraries is shown below.
 
-![Figure: The comparison of the weight of similar other libraries](//raw.githubusercontent.com/wiki/urin/jquery.tile.js/images/script-size-comparison-graph.png "The comparison of the weight of similar other libraries")
+<img src="//raw.githubusercontent.com/wiki/urin/jquery.tile.js/images/script-size-comparison-graph.png" alt="Figure: The comparison of the weight of similar other libraries" title="The comparison of the weight of similar other libraries">
 
-![Table: The comparison of the weight of similar other libraries](//raw.githubusercontent.com/wiki/urin/jquery.tile.js/images/script-size-comparison-table.png "The comparison of the weight of similar other libraries")
+<img src="//raw.githubusercontent.com/wiki/urin/jquery.tile.js/images/script-size-comparison-table.png" alt="Table: The comparison of the weight of similar other libraries" title="Table: The comparison of the weight of similar other libraries">
 
 <small>This comparison was done at 2014-05-22 using the latest version of all libraries.</small>
 
