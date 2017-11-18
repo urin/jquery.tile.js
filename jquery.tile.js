@@ -2,11 +2,10 @@
  * Flatten height same as the highest element for each row.
  *
  * Copyright (c) 2011 Hayato Takenaka
- * Dual licensed under the MIT and GPL licenses:
+ * Dual licensed under the MIT license:
  * http://www.opensource.org/licenses/mit-license.php
- * http://www.gnu.org/licenses/gpl.html
  * @author: Hayato Takenaka (https://github.com/urin/jquery.tile.js)
- * @version: 1.1.1
+ * @version: 1.1.2
  **/
 (function($) {
   $.fn.tile = function(columns) {
